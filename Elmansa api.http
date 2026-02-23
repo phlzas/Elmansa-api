@@ -1,0 +1,6 @@
+@Elmansa_api_HostAddress = http://localhost:5095
+
+GET {{Elmansa_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
